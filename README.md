@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <h1>Kamran Ahmed Siddiqui</h1></br>
-<small>Hye, This kamran Ahmed siqqiqui here</small>
+<small>Hye, This kamran Ahmed siddiqui here</small>
 <!---
 Darkcodexpch/Darkcodexpch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
