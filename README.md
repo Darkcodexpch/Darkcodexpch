@@ -1,6 +1,9 @@
  Hi there 👋 hope you're good
  <strong>Welcome to my GitHub profile! I'm Kamran, Fullstack developer from Karachi, Pakistan.</strong>
   A passionate Application Developer 🚀 having an experience of building Web and Mobile applications </br><strong>Tech we moastly Used</strong>
+  <hr/>
+  <center><a href="https://www.linkedin.com/in/thekamransiddiqui/">Visit my Linkedln</a></center>
+  <hr/>
   <dl>
   <dt>JavaScript </dt>
   <dd> ✔ ReactJS</dd>
